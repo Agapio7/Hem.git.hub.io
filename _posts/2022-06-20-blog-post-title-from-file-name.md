@@ -1,6 +1,12 @@
 # WEB5: DECENTRALIZED WEB PLATFORM
+* Jack Dorsey, co-founder of Twitter Inc and the formal CEO of Block Inc , revealed about his project  called Web5, a combination of Web3  and Web 2.0, built on the Bitcoin blockchain on twitter on June 10,2022.
 
-*	A new evolution of the Web that enables decentralized apps and protocols.
+* Web5 is developed by The Block Head (TBH), one of the Bitcoin business units at Dorsey’s Block (formerly Square). The platform brings decentralized identity and data storage to applications. It’s a  new evolution of the Web that enables decentralized apps and protocols.
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/91752852/174520980-e5d91977-2df6-418b-bfc1-892dbf03f620.png)
 
@@ -90,6 +96,11 @@
  ![image](https://user-images.githubusercontent.com/91752852/174521384-e4985f97-4365-4d0f-9d7e-cc36931cc655.png)
 
 ## SELF-SOVEREIGN IDENTITY SERVICE
+* In order to know about  self-sovereign identity service, you must be have knowledge about verifiable credentials(VCs).
+
+![image](https://user-images.githubusercontent.com/91752852/174526715-529d41c7-32dd-4c56-8dad-2b6593d6f18b.png)
+
+* VCs hold the same information as physical credentials such as issuer (US government, a certification body), and subject’s information (photo, name). VCs are more tamper-resistant compared to physical credentials due to the digital signature that they carry. Copy of VCs can be created by its holder and sent to verifiers. 
 
 * An in-a-box service that handles the full Verifiable Credentials lifecycle, including issuance, verification, revocation, and more.
 * The Self Sovereign Identity Service (SSIS) facilitates all things relating to DIDs and Verifiable Credentials -- in a box! 
@@ -98,6 +109,8 @@
 * Through these core standards, the SSIS enables robust functionality to facilitate all verifiable interactions such as creating, signing, issuing, curating, requesting, revoking, exchanging, validating, verifying credentials in varying degrees of complexity.
  
 ![image](https://user-images.githubusercontent.com/91752852/174521410-2bfd6160-d2b6-4054-b2e3-7d0e41a6f665.png)
+
+
 
 ## SELF-SOVEREIGN IDENTITY SDK
 
