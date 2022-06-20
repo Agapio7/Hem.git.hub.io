@@ -9,6 +9,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/91752852/174520980-e5d91977-2df6-418b-bfc1-892dbf03f620.png)
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
  
 * Before understanding web5, you have to know about the Decentralized Web Platform (DWP), DWP supports developers to write Decentralized Web Apps (DWAs) using Decentralized Identifiers (DIDs) and Decentralized Web Nodes (DWNs), returning ownership and control over identity and data to individuals.
@@ -52,6 +53,7 @@
 * No centralized providers or trusted authorities and No special utility tokens or subjective consensus
 * Highly resistant to all forms of interdiction and IDs can be made universally discoverable
 ![image](https://user-images.githubusercontent.com/91752852/174521812-647bda30-f74e-4bc7-85c4-d22e816d8baf.png)
+  Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
 
  ## Web5 Network Topology
@@ -61,6 +63,7 @@
 ### How web5 Network Topology works?
 
 ![image](https://user-images.githubusercontent.com/91752852/174521797-2ed3f7ce-84f8-473f-ac98-284878d3408a.png)
+  Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
 * Alice resolves Bob’s DID 
 * Alice sends a message to Bob’s DWN
@@ -94,11 +97,14 @@
 ## Visualizing Web5 and the DWP Stack
 
  ![image](https://user-images.githubusercontent.com/91752852/174521384-e4985f97-4365-4d0f-9d7e-cc36931cc655.png)
+  Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
 ## SELF-SOVEREIGN IDENTITY SERVICE
 * In order to know about  self-sovereign identity service, you must be have knowledge about verifiable credentials(VCs).
 
 ![image](https://user-images.githubusercontent.com/91752852/174526715-529d41c7-32dd-4c56-8dad-2b6593d6f18b.png)
+ Source: [W3C](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/#what-is-a-verifiable-credential)
+ 
 
 * VCs hold the same information as physical credentials such as issuer (US government, a certification body), and subject’s information (photo, name). VCs are more tamper-resistant compared to physical credentials due to the digital signature that they carry. Copy of VCs can be created by its holder and sent to verifiers. 
 
@@ -109,7 +115,7 @@
 * Through these core standards, the SSIS enables robust functionality to facilitate all verifiable interactions such as creating, signing, issuing, curating, requesting, revoking, exchanging, validating, verifying credentials in varying degrees of complexity.
  
 ![image](https://user-images.githubusercontent.com/91752852/174521410-2bfd6160-d2b6-4054-b2e3-7d0e41a6f665.png)
-
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
 
 ## SELF-SOVEREIGN IDENTITY SDK
@@ -119,6 +125,7 @@
 * The ssi-sdk intends to provide flexible functionality based on a set of standards-based primitives for building decentralized identity applications in a modular manner: with limited dependencies between components.
 
 ![image](https://user-images.githubusercontent.com/91752852/174521455-38f92b31-4019-4849-bdd1-6b63e6473968.png)
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
         
 
 
@@ -127,6 +134,7 @@
 * PWAs are websites that took their vitamins and have special powers.
 
  ![image](https://user-images.githubusercontent.com/91752852/174521499-4aaed02f-4541-4949-84ac-e5d1cd2b0dca.png)
+  Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
 
 ### Acme Bank? Is this legit?
@@ -135,6 +143,7 @@
 * Alice resolves the Bank’s DID
 * Alice fetches credentials from the Bank’s DWeb Node based on the schema of the desired credential
 ![image](https://user-images.githubusercontent.com/91752852/174521520-f9e2343c-3993-456f-adb8-8467f4649c4c.png)
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
  
 
@@ -147,6 +156,7 @@
 * PFIs respond to Alice’s Asks via Bid messages sent back to Alice’s DWeb Node.
 
 ![image](https://user-images.githubusercontent.com/91752852/174521688-6fb57776-821d-4369-9172-9b5b662311b9.png)
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
 
 ### Music playlist
@@ -155,6 +165,7 @@
 * Groove secures the ability to write schema.org/Music Playlist objects to Alice’s DWNs, and adds a new entry.
 * TIDAL, which previously secured the ability to read Alice’s schema.org/Music Playlist entries, can read the entry Groove added.
 ![image](https://user-images.githubusercontent.com/91752852/174521642-d7df0995-8313-4cd1-8cca-bc0721a6766a.png)
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
  
  ### Book a Hotel 
@@ -163,6 +174,7 @@
 * For instance, Alice grants her hotel, airline, and rental car provider the ability to add schema.org/Reservation objects to her collection of trip-related data.
 * Secondly, Alice can grant any app she chooses access to reservations and tickets stored in her schema.org/Trip data to help her visualize her itinerary.
 ![image](https://user-images.githubusercontent.com/91752852/174521665-800651fb-6205-4c34-9f8b-2e50321ec185.png)
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
 
 
  
