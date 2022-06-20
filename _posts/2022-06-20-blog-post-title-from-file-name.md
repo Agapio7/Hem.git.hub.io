@@ -195,7 +195,7 @@
 
 
 ## High Enegry Consumpption
-*Proof of work (PoW) consensus protocol that requires a massive amount of computation energy.
+* Proof of work (PoW) consensus protocol that requires a massive amount of computation energy.
 ![image](https://user-images.githubusercontent.com/91752852/174535401-0d57ff74-2dab-4554-9cc3-5809e00dc797.png)
 
 
