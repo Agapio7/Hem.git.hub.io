@@ -1,5 +1,7 @@
 # WEB5: DECENTRALIZED WEB PLATFORM
-**The concept of Web5 arise when Jack Dorsey, co-founder of Twitter Inc and the formal CEO of Block Inc , reveal about his project  called Web5, a combination of Web3  and Web 2.0, built on the Bitcoin blockchain on twitter on June 10,2022.**
+**The concept of Web5 arise when Jack Dorsey, co-founder of Twitter Inc and the formal CEO of Block Inc , revealed about his project  called Web5, a combination of Web3  and Web 2.0, built on the Bitcoin blockchain on twitter on June 10,2022.**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">this will likely be our most important contribution to the internet. proud of the team. <a href="https://twitter.com/hashtag/web5?src=hash&amp;ref_src=twsrc%5Etfw">#web5</a><br><br>(RIP web3 VCs 🤫)<a href="https://t.co/vYlVqDyGE3">https://t.co/vYlVqDyGE3</a> <a href="https://t.co/eP2cAoaRTH">https://t.co/eP2cAoaRTH</a></p>&mdash; jack (@jack) <a href="https://twitter.com/jack/status/1535314738078486533?ref_src=twsrc%5Etfw">June 10, 2022</a></blockquote>
 
 * Web5 is developed by The Block Head (TBH), one of the Bitcoin business units at Dorsey’s Block (formerly Square). The platform brings decentralized identity and data storage to applications. It’s a  new evolution of the Web that enables decentralized apps and protocols.
 
