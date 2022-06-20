@@ -198,6 +198,14 @@
 * Proof of work (PoW) consensus protocol that requires a massive amount of computation energy.
 ![image](https://user-images.githubusercontent.com/91752852/174535401-0d57ff74-2dab-4554-9cc3-5809e00dc797.png)
 
+### Reference 
+* Bitcoin Energy Consumption Index (no date) Digiconomist. Available at: https://digiconomist.net/bitcoin-energy-consumption/ (Accessed: 20 June 2022).
+* Galloway, S. (2022) ‘The False Promise of Web3’, Marker, 18 January. Available at: https://marker.medium.com/the-false-promise-of-web3-7e6c1a00d4be (Accessed: 20 June 2022).
+* ‘Jack Dorsey announces “Web 5”, a new platform built on Bitcoin blockchain’ (2022) The Indian Express, 17 June. Available at: https://indianexpress.com/article/technology/crypto/former-twitter-ceo-jack-dorsey-announces-a-new-platform-web-5-7964556/ (Accessed: 20 June 2022).
+* jack (@jack) / Twitter (no date) Twitter. Available at: https://twitter.com/jack (Accessed: 20 June 2022).
+* Verifiable Credentials Data Model v1.1 (no date). Available at: https://www.w3.org/TR/2022/REC-vc-data-model-20220303/#what-is-a-verifiable-credential (Accessed: 20 June 2022).
+* Web3 Just Got Here — And Now Ex-Twitter Boss Jack Dorsey Introduces Web5 By Benzinga (no date) Investing.com UK. Available at: https://uk.investing.com/news/stock-market-news/web3-just-got-here--and-now-extwitter-boss-jack-dorsey-introduces-web5-2667121 (Accessed: 20 June 2022).
+* Web5 (no date) TBD. Available at: https://developer.tbd.website/projects/web5 (Accessed: 20 June 2022).
 
 
 
