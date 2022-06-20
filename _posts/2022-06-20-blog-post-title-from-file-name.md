@@ -184,6 +184,22 @@
 * Secondly, Alice can grant any app she chooses access to reservations and tickets stored in her schema.org/Trip data to help her visualize her itinerary.
 ![image](https://user-images.githubusercontent.com/91752852/174521665-800651fb-6205-4c34-9f8b-2e50321ec185.png)
  Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
+ 
+ 
+ ## Challenges and Issue on adopting web5
+  
+  # Monopoly Ownership
+ ![image](https://user-images.githubusercontent.com/91752852/174535060-769d3c97-1834-42b1-b354-371ca8025d7b.png)
+ * The top 2% of accounts own 95% of the $800 billion supply of Bitcoin, and 0.1% of Bitcoin miners are responsible for half of all mining output. 
+ 
+
+
+## High Enegry Consumpption
+*Proof of work (PoW) consensus protocol that requires a massive amount of computation energy.
+![image](https://user-images.githubusercontent.com/91752852/174535401-0d57ff74-2dab-4554-9cc3-5809e00dc797.png)
+
+
+
 
 
  
