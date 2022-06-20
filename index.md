@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+# Warm Welcome to my Git hubProfile ✋ 🙏
 
-Maybe say a some things about yourself.
+ Passionate and curious  about  technology,artificial intelligence,deep learning, machine learning, AR & VR,Web5 & Blockchain  also optimistic about these technolgies that bring value to Human life.
 
-Or maybe what you plan to blog about.
+
+
+
+
+ -Thanks for Visiting 👍 🙏 
