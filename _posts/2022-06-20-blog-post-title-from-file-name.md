@@ -1,21 +1,27 @@
 # WEB5: DECENTRALIZED WEB PLATFORM
-* Jack Dorsey, co-founder of Twitter Inc and the formal CEO of Block Inc , revealed about his project  called Web5, a combination of Web3  and Web 2.0, built on the Bitcoin blockchain on twitter on June 10,2022.
+**The concept of Web5 arise when Jack Dorsey, co-founder of Twitter Inc and the formal CEO of Block Inc , reveal about his project  called Web5, a combination of Web3  and Web 2.0, built on the Bitcoin blockchain on twitter on June 10,2022.**
 
 * Web5 is developed by The Block Head (TBH), one of the Bitcoin business units at Dorsey’s Block (formerly Square). The platform brings decentralized identity and data storage to applications. It’s a  new evolution of the Web that enables decentralized apps and protocols.
 
-
-
-
-
-
 ![image](https://user-images.githubusercontent.com/91752852/174520980-e5d91977-2df6-418b-bfc1-892dbf03f620.png)
  Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
+
 
  
 * Before understanding web5, you have to know about the Decentralized Web Platform (DWP), DWP supports developers to write Decentralized Web Apps (DWAs) using Decentralized Identifiers (DIDs) and Decentralized Web Nodes (DWNs), returning ownership and control over identity and data to individuals.
 
 ### According to TBD,
 **“Web5 is a Decentralized Web Platform that enables developers to leverage Decentralized Identifiers, Verifiable Credentials, and Decentralized Web Nodes to write Decentralized Web Apps, returning ownership and control over identity and data to individuals.”**
+
+## Why Web5 is needed?
+* In the current Web model, people are users who do not own their data or identity. They are given accounts by companies and their data is held captive in app silos.
+
+* To create a new class of decentralized apps and protocols (e.g. tbDEX) that put individuals at the center, we must empower them with self-owned identity and restore control over their data.
+
+![chrome_d9qT1X1JMC](https://user-images.githubusercontent.com/91752852/174529127-19f8c510-3371-458d-a93a-0ce480ccec6d.png)
+ Source: [TBD](https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf)
+
+
 
 ## The Pillars of Web5
 
@@ -101,12 +107,13 @@
 
 ## SELF-SOVEREIGN IDENTITY SERVICE
 * In order to know about  self-sovereign identity service, you must be have knowledge about verifiable credentials(VCs).
+* VCs hold the same information as physical credentials such as issuer (US government, a certification body), and subject’s information (photo, name). VCs are more tamper-resistant compared to physical credentials due to the digital signature that they carry. Copy of VCs can be created by its holder and sent to verifiers.
 
 ![image](https://user-images.githubusercontent.com/91752852/174526715-529d41c7-32dd-4c56-8dad-2b6593d6f18b.png)
- Source: [W3C](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/#what-is-a-verifiable-credential)
+  Source: [W3C](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/#what-is-a-verifiable-credential)
  
 
-* VCs hold the same information as physical credentials such as issuer (US government, a certification body), and subject’s information (photo, name). VCs are more tamper-resistant compared to physical credentials due to the digital signature that they carry. Copy of VCs can be created by its holder and sent to verifiers. 
+ 
 
 * An in-a-box service that handles the full Verifiable Credentials lifecycle, including issuance, verification, revocation, and more.
 * The Self Sovereign Identity Service (SSIS) facilitates all things relating to DIDs and Verifiable Credentials -- in a box! 
