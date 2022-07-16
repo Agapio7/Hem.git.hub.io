@@ -17,7 +17,11 @@ Before understanding MLOPs we need to understand about Devops.
 
 
 
-### MLOOPS Principles
+### MLOPS Principles
+
+![image](https://user-images.githubusercontent.com/91752852/179354046-e01006d0-692d-4834-8482-5155038770f0.png)
+
+Figure 1. Implementation of principles within technical components
 
 
 
@@ -135,6 +139,11 @@ production, and monitoring
 ### R7 ML Engineer/MLOps Engineer.
 * Incorporates skills from data scientists, data engineers, software engineers, DevOps engineers, and backend engineers.
 * Builds up and operates the ML infrastructure, manages the automated ML workflow pipelines and model deployment to production, and monitors both the model and the ML infrastructure.
+
+![chrome_Elx8ROn9oQ](https://user-images.githubusercontent.com/91752852/179354343-e498812a-e0e0-4d62-b0f3-b6558c2f42e1.png)
+
+
+Fig 2: Roles and their intersections contributing to the MLOps paradigm
 
              
 
