@@ -113,7 +113,7 @@ Once we defined the principles that need to be incorporated into MLOps, we now e
 
 
 
-## MLOOPS : Roles and Resonsibilities 
+## MLOPS : Roles and Resonsibilities 
 
 * Once the principles and their resulting instantiation of components are sketched, we identify necessary roles in order to realize MLOps as given below. MLOps is an interdisciplinary group process, and the interplay of different roles is crucial to design, manage, automate, and operate an ML system in production. In the following, every role, its purpose, and related tasks are briefly described:
 R1 Business Stakeholder (similar roles: Product Owner, Project Manager). 
