@@ -119,12 +119,20 @@ Once we defined the principles that need to be incorporated into MLOps, we now e
 R1 Business Stakeholder (similar roles: Product Owner, Project Manager). 
 * Defines the business goal to be achieved with ML and takes care of the communication side of the business, e.g., presenting the return on investment (ROI) generated with an ML product 
 
-### R2D2Solution Architect (similar role: IT Architect).
+### R1 Business Stakeholder (similar roles: Product Owner, Project Manager). 
+
+* Defines the business goal to be achieved with ML and takes care of the communication side of the business, e.g., presenting the return on investment (ROI) generated with an ML product 
+
+
+### R2 Solution Architect (similar role: IT Architect).
 
 * Designs the architecture and defines the technologies to be used, following a thorough evaluation.
-R3 Data Scientist (similar roles: ML Specialist, ML Developer). 
+
+### R3 Data Scientist (similar roles: ML Specialist, ML Developer). 
+
 * Converts the business problem into an ML problem and takes care of the model engineering, including the selection of the best-performing algorithm and hyperparameters
-R4 Data Engineer (similar role: DataOps Engineer). 
+
+### R4 Data Engineer (similar role: DataOps Engineer). 
 * The data engineer builds up and manages data and feature engineering
 pipelines.
 * Ensures proper data ingestion to the databases of the feature store system
