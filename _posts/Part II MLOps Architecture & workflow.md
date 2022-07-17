@@ -1,4 +1,6 @@
 # Part  II :MLOPS 's Architecture and Workflow
+![image](https://user-images.githubusercontent.com/91752852/179383913-b9181c93-6b77-436e-8406-8dcc3597320f.png)
+
 
 On the reference of identified principles, components, and roles, we design a generalized MLOps end-to-end architecture to give ML researchers and practitioners proper shape.
 
