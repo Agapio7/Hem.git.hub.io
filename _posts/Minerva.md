@@ -26,6 +26,9 @@ Solving a multi-step problem: A question from the MATH dataset and Minerva’s s
 ![image1](https://user-images.githubusercontent.com/91752852/181919040-f0872b79-49c0-4229-a7bf-34219e9fd084.png)
 A dataset for quantitative reasoning: Careful data processing preserves mathematical information, allowing the model to learn mathematics at a higher level.
 
+![image](https://user-images.githubusercontent.com/91752852/181919495-1350ff48-f4ab-47f4-bdf8-2613b4facfea.png)
+Physics questions with their Minerva solution
+
 
  * Standard text cleaning procedures often remove symbols and formatting that are essential to the semantic meaning of mathematical expressions. By maintaining this information in the training data, the model learns to converse using standard mathematical notation.
 
